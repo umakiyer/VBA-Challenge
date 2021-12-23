@@ -30,13 +30,14 @@ Disadvantage of Refactoring :
  		
 	
 ### Advantage & Disadvantage of Refactoring Code for All-Stock Analysis
-	Advantage of Refactoring the code:
-	 - the module ran faster than the original module by ----%.
-	 - the code is more structured & eas to decode.
-	 - The ouput was written to the All-Stock Analysis tab after all the calculations of the all the ticker.
-	Disadvantage of Refactoring the code:
-	 - The output are stored in an array which takes up computer memory 
-	   ( even though negligible in this case).
-	 - Since the data was not large, the running time before & after refactoring was different by .5 seconds!
+Advantage of Refactoring the code:
+- the module ran faster than the original module by ----%.
+- the code is more structured & eas to decode.
+- The ouput was written to the All-Stock Analysis tab after all the calculations of the all the ticker.
+
+Disadvantage of Refactoring the code:
+- The output are stored in an array which takes up computer memory 
+( even though negligible in this case).
+- Since the data was not large, the running time before & after refactoring was different by .5 seconds!
 
  
