@@ -6,18 +6,18 @@
 	
 ## Result
 
-    Used the array to store the tickers, tickervolumes, starting price & ending price of the stock for the day. 
-    Initialized the arrays to stored the values in the array using loop. 
-    Created header and formatted the header in the All_Stock Analysis tab.
-    Using the loops wrote in the All_Stock Analysis tab the ticker name, volume of the stocks & the return.
-    Formatted the total daily volume column to number format with comma. "Return" Column was formatted to red if the return
-    was negative & green if the return was positive.
-    The module ran in 0.0859375 seconds for 2017 after refacoring 
-![image](Resources/VBA_Challenge_2017.png)
-    The module ran in 0.136719 seconds for 2018 after refacoring
-    
+Used the array to store the tickers, tickervolumes, starting price & ending price of the stock for the day. 
+Initialized the arrays to stored the values in the array using loop. 
+Created header and formatted the header in the All_Stock Analysis tab.
+Using the loops wrote in the All_Stock Analysis tab the ticker name, volume of the stocks & the return.
+Formatted the total daily volume column to number format with comma.
+"Return" Column was formatted to red if the return was negative & green if the return was positive.
+###
+The module run time for 2017 & 2018 after refactoring:
+
+
 ## Summary
-	
+
 ### Advantage & Disadvantage of Refactoring Code
 	 
 Advantage of Refactoring:
