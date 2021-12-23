@@ -13,9 +13,8 @@ Using the loops wrote in the All_Stock Analysis tab the ticker name, volume of t
 Formatted the total daily volume column to number format with comma.
 "Return" Column was formatted to red if the return was negative & green if the return was positive.
 ###
-The module run time for 2017 & 2018 after refactoring:
-![image](https://user-images.githubusercontent.com/94644796/147280090-3b719407-e463-40b5-af7c-c0554a4a21fc.png)
-![image](https://user-images.githubusercontent.com/94644796/147280090-3b719407-e463-40b5-af7c-c0554a4a21fc.png)
+The module run time for 2017 after refactoring:
+![image](Resources/VBA_Challenge_2017.png)
 ## Summary
 
 ### Advantage & Disadvantage of Refactoring Code
