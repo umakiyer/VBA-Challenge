@@ -14,6 +14,7 @@ Formatted the total daily volume column to number format with comma.
 "Return" Column was formatted to red if the return was negative & green if the return was positive.
 ###
 The module run time for 2017 after refactoring:
+![image]()
 
 ## Summary
 
