@@ -14,7 +14,7 @@ Formatted the total daily volume column to number format with comma.
 "Return" Column was formatted to red if the return was negative & green if the return was positive.
 ##
 Before Refractoring
-![image]() ![image]()
+![image](Resources/2017RunTime Before Refactoring.png) ![image](Resources/2018RunTime Before Refactoring.png)
 ##
 After Refractoring 
 ![image](Resources/VBA_Challenge_2017.png)![image](Resources/VBA_Challenge_2018.png)
