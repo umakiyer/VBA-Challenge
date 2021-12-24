@@ -12,9 +12,12 @@ Created header and formatted the header in the All_Stock Analysis tab.
 Using the loops wrote in the All_Stock Analysis tab the ticker name, volume of the stocks & the return.
 Formatted the total daily volume column to number format with comma.
 "Return" Column was formatted to red if the return was negative & green if the return was positive.
-###
-The module run time for 2017 after refactoring:
-![image]()
+##
+Before Refractoring
+![image]() ![image]()
+##
+After Refractoring 
+![image](Resources/VBA_Challenge_2017.png)![image](Resources/VBA_Challenge_2018.png)
 
 ## Summary
 
@@ -32,7 +35,7 @@ Disadvantage of Refactoring:
 	
 ### Advantage & Disadvantage of Refactoring Code for All-Stock Analysis
 Advantage of Refactoring the code:
-- the module ran faster than the original module by ----%.
+- the module ran faster than the original module.
 - the code is more structured & easy to decode.
 - The output was written to the All-Stock Analysis tab after all the calculations of the all the ticker.
 
