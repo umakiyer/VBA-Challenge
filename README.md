@@ -13,6 +13,8 @@ Using the loops wrote in the All Stocks Analysis tab the ticker name, volume of 
 Formatted the total daily volume column to number format with comma.
 "Return" Column was formatted to red color if the return on stocks was negative & green color if the return on stocks was positive.
 
+Before Refractoring 
+![image]()![image]()
 After Refractoring 
 ![image](Resources/VBA_Challenge_2017.png)![image](Resources/VBA_Challenge_2018.png)
 
