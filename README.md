@@ -20,7 +20,7 @@ Formatted the total daily volume column to number format with comma.
 ![image](Resources/VBA_Challenge_2017.png)![image](Resources/VBA_Challenge_2018.png)
 
 ###     Analysis Result
-![image]() 
+![image](Resources/AllStocks2017Output.png)                   ![image](Resources/AllStocks2018Output.png) 
 ## Summary
 
 ### Advantage & Disadvantage of Refactoring Code
