@@ -14,13 +14,13 @@ Formatted the total daily volume column to number format with comma.
 "Return" Column was formatted to red color if the return on stocks was negative & green color if the return on stocks was positive.
 
 ###	 Before Refractoring 
-![image](Resources/2017RunTimeBeforeRefactoring.png)                     ![image](Resources/2018RunTimeBeforeRefactoring.png)
+![image](Resources/2017RunTimeBeforeRefactoring.png)&nbsp;&nbsp;&nbsp;&nbsp;![image](Resources/2018RunTimeBeforeRefactoring.png)
 
 ###	After Refractoring 
 ![image](Resources/VBA_Challenge_2017.png)![image](Resources/VBA_Challenge_2018.png)
 
 ###     Analysis Result
-![image](Resources/AllStocks2017Output.png)                   ![image](Resources/AllStocks2018Output.png) 
+![image](Resources/AllStocks2017Output.png)&nbsp;&nbsp;&nbsp;&nbsp;![image](Resources/AllStocks2018Output.png) 
 ## Summary
 
 ### Advantage & Disadvantage of Refactoring Code
