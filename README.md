@@ -14,7 +14,7 @@ Formatted the total daily volume column to number format with comma.
 "Return" Column was formatted to red color if the return on stocks was negative & green color if the return on stocks was positive.
 
 ###	 Before Refractoring 
-![image](Resources/2017RunTimeBeforeRefactoringVER2.png)&nbsp;&nbsp;&nbsp;&nbsp;![image](Resources/2018RunTimeBeforeRefactoring.png)
+![image](Resources/2017RunTimeBeforeRefactoringVER2.png)&nbsp;&nbsp;&nbsp;&nbsp;![image](Resources/2018RunTimeBeforeRefactoringVER2.png)
 
 ###	After Refractoring 
 ![image](Resources/VBA_Challenge_2017.png)![image](Resources/VBA_Challenge_2018.png)
