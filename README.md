@@ -26,21 +26,21 @@ Formatted the total daily volume column to number format with comma.
 
 ### Advantage & Disadvantage of Refactoring Code
 	 
-Advantage of Refactoring:
+Advantages of Refactoring:
   * To make the program run faster.
   * Make the program easier to read & debug.
   * Easier to make changes, maintain the module in future date.
     	 
-Disadvantage of Refactoring:
+Disadvantages of Refactoring:
   - We may underestimate the amount of time for refactoring.
-  - if refactoring is done wrong, it will take more time debugging between different modules.
+  - If refactoring is done incorrectly, it will take more time debugging.
  		
 	
 ### Advantage & Disadvantage of Refactoring Code for All-Stock Analysis
 Advantage of Refactoring the code:
-- the module ran faster than the original module.
-- the code is more structured & easy to decode.
-- The output was written to the All-Stock Analysis tab after all the calculations of the all the ticker.
+- The module ran faster than the original module.
+- The code is more structured & easy to decode.
+- The output was written to the All-Stock Analysis tab after all the calculations of the all the tickers.
 
 Disadvantage of Refactoring the code:
 - The output is stored in an array which takes up computer memory 
