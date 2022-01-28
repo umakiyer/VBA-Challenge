@@ -43,8 +43,7 @@ Advantage of Refactoring the code:
 - The output was written to the All-Stock Analysis tab after all the calculations of the all the tickers.
 
 Disadvantage of Refactoring the code:
-- The output is stored in an array which takes up computer memory 
-(even though negligible in this case).
-- Since the data was not large, the running time before & after refactoring was different by .5 seconds!
+- The effort & time spent was not worth for this analysis
+- The refactored code improved by 16% only. 
 
  
