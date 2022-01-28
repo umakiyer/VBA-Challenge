@@ -1,7 +1,7 @@
 # Refactor VBA Code and Measure Performance
 
 ## Overview of Project
-	Refactor the stock analysis module by making the code more efficient, run faster and easier to read.
+Refactor the stock analysis module by making the code more efficient, run faster and easier to read.
 	
 	
 ## Result
